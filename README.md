@@ -76,7 +76,7 @@ From hobby projects to competition-winning systems, I've been passionate about b
 
 ## 🎢 Fun Fact
 
-I enjoy exploring theme parks and love finding the intersection of technology and user experiences. When I'm not coding for work, you'll find me learning new (human) languages or working on creative coding projects!
+I'm passionate about user experience design and love finding the intersection of technology and delightful experiences. When I'm not coding for work, you'll find me learning new (human) languages or working on creative coding projects!
 
 ---
 
