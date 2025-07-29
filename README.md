@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Kevin van der Toorn
+# Hey there! 👋 I’m Kevin van der Toorn
 
 > **Passionate web developer who turns tricky problems into smooth digital experiences**
 
