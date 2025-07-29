@@ -55,7 +55,7 @@ Git • GitHub • Vite • Docker • Linux • Internationalization (i18n)
 **Electrical Engineering** (BSc) • TU Delft
 
 **18+ years of web development journey:**  
-From hobby projects to competition-winning systems, I've been passionate about building digital solutions that solve real problems. My formal CS education complements years of hands-on experience with modern web technologies.
+From hobby projects to competition-winning systems, I've been passionate about building digital solutions that solve real problems. My engineering background and CS studies complement years of hands-on experience with modern web technologies.
 
 ---
 
